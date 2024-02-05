@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thomas Gust</h1>
 <h3 align="center">A high schooler in Seattle interested in deep learning, data science, and bioinformatics</h3>
+<p align="left> I haven't used GitHub nearly as much as I should have over the years. A lot of the projects I have completed have pretty much just sat on my local computer. Over the next few weeks, I am going to attempt to upload a bunch of these projects to different repositories and work on my code documentation and structure. I aim to use GitHub a lot more in the future!</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thomasgust&label=Profile%20views&color=0e75b6&style=flat" alt="thomasgust" /> </p>
 
