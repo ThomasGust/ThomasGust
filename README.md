@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thomasgust&column=-1" alt="thomasgust" /></a> </p>
 
-- 🔭 I’m currently working on [Molecumixer](https://github.com/ThomasGust/Molecumixer)
+- 🔭 I’m currently working on [Molecumixer](https://github.com/ThomasGust/Molecumixer), a project which uses graph neural networks to generate, and analyze the properties of bioactive molecules.
 
 - 🌱 I’m currently learning **cellular biology, bioinformatics, omics**
 
