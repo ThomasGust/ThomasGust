@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Molecumixer](https://github.com/ThomasGust/Molecumixer)
 
-- 🌱 I’m currently learning **Cellular biology, bioinformatics, omics**
+- 🌱 I’m currently learning **cellular biology, bioinformatics, omics**
 
 - 💬 Ask me about: **graph neural networks, pre-training, underwater robotics, segmentation, data science, web automation, deep learning**
 
