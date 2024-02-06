@@ -24,3 +24,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ThomasGust&show_icons=true&locale=en" alt="thomasgust" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ThomasGust&" alt="thomasgust" /></p>
+
+<p>The programming breakdown above is a little misleading. I primarily program in python. When I was learning Javascript however, I dealt with a project which involved editing the source of a large Javascript library, which makes it look like I have written way more Javascript than I actually have.</p>
