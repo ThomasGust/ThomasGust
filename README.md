@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thomas Gust</h1>
-<h3 align="center">A high schooler in Seattle interested in deep learning, data science, and bioinformatics</h3>
+<h3 align="center">Currently attending high school in Seattle. Interested in deep learning, data science, and bioinformatics</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thomasgust&label=Profile%20views&color=0e75b6&style=flat" alt="thomasgust" /></p>
 
