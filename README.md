@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **cellular biology, bioinformatics, omics**
 
-- 💬 Ask me about: **graph neural networks, pre-training, underwater robotics, segmentation, data science, web automation, deep learning**
+- 💬 Ask me about: **graph neural networks, pre-training, underwater robotics, segmentation, data science/analysis, web automation, deep learning, bioinformatics**
 
 - 📫 How to reach me **thomasgust@seattleacademy.org**
 
