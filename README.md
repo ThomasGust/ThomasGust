@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Molecumixer](https://github.com/ThomasGust/Molecumixer), a project which uses graph neural networks to generate, and analyze the properties of bioactive molecules.
 
-- 🌱 I’m currently learning **cellular biology, bioinformatics, omics**
+- 🌱 I’m currently learning **cellular biology, bioinformatics, omics, R**
 
 - 💬 Ask me about: **graph neural networks, pre-training, underwater robotics, segmentation, data science/analysis, web automation, deep learning, bioinformatics**
 
