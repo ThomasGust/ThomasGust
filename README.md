@@ -16,12 +16,12 @@ Seattle Channel ran a [segment on the team's design process](https://www.seattle
 
 ## Computational biology
 
-- **[Elastic-ST](https://github.com/ThomasGust/Elastic-ST)**: a Python library (`pip install elastic_st`) for building gene networks from spatial transcriptomics data, using information about each cell's neighbors as well as its own expression. It includes a Cython weighted elastic net, so spatial features can be regularized separately from genes. I started it early in my mentorship with Bruker Spatial Biology.
+- **[Elastic-ST](https://github.com/ThomasGust/Elastic-ST)**: a pip-installable Python library for building gene networks from spatial transcriptomics data, using information about each cell's neighbors as well as its own expression. It includes a Cython weighted elastic net, so spatial features can be regularized separately from genes. I started it early in my mentorship with Bruker Spatial Biology.
 - **[Molecumixer](https://github.com/ThomasGust/Molecumixer)**: graph neural network pretraining on small molecules for generation and property prediction. Unfinished; the dataset and checkpoints are too large for GitHub.
 
 ## Earlier machine learning projects
 
-- **[BotSigner](https://github.com/ThomasGust/BotSigner)**: sign language recognition from hand landmarks. My model placed 72nd of 1,165 in Kaggle's Isolated Sign Language Recognition competition, and I built it into a web app for an 8th grade project.
+- **[BotSigner](https://github.com/ThomasGust/BotSigner)**: sign language recognition from hand landmarks. My model placed 72nd of 1,165 in Kaggle's Isolated Sign Language Recognition competition, and I built it into a desktop app for an 8th grade project.
 - **[SoilingNet](https://github.com/ThomasGust/SoilingNet)**: models that estimate soiling and power loss on solar panels from images.
 
 ## Everything else
