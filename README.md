@@ -12,8 +12,6 @@ A friend and I started Triton in middle school to compete in the [MATE ROV Compe
 - **[TritonPilot](https://github.com/ThomasGust/TritonPilot)**: the topside control station (PyQt6). Controller input, live video and telemetry, stereo calibration, and logging.
 - **[TritonAnalysis](https://github.com/ThomasGust/TritonAnalysis)**: mission-analysis tools that run on a separate laptop. Stereo depth and length measurement, photogrammetry, and underwater color correction.
 
-Code for our 2026 vertical profiling float (Skadi) is hosted by **[@simonhajd](https://github.com/simonhajd)** under **[TritonFloat](https://github.com/simonhajd/TritonFloat)**. This holds all of our communication, logging, and buoyancy engine control code for the float.
-
 Seattle Channel ran a [segment on the team's design process](https://www.seattlechannel.org/videos?videoid=x191735) in October 2026. Some code from earlier seasons is in [Triton](https://github.com/ThomasGust/Triton) and [Triton2024](https://github.com/ThomasGust/Triton2024), but these repos are incomplete and mostly experimental.
 
 ## Computational biology
